@@ -163,5 +163,10 @@ inches2miles<-function(x) {
   return(K)
 }
 
+feet2inches<-function(x) {
+  L <- x*12
+  return(L)
+}
+
 
 
